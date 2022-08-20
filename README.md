@@ -8,6 +8,10 @@ Install `jupyter notebook` (tested on MacOS X):
 
     pip install notebook
 
+Install the Python `pytest` framework:
+
+    pip install pytest
+
 ## Getting started
 
 To run the notebook, run the following command at the root folder:
